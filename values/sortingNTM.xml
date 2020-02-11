@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--N : Name, T : Topic, M : Main text -->
+    <string-array name="sortntm">
+        <item>분류 : 작성자</item>
+        <item>분류 : 제목</item>
+        <item>분류 : 내용</item>
+    </string-array>
+
+    <!--V : View, C : Comment, D : Date -->
+    <string-array name="sortvcd">
+        <item>정렬 기준 : 조회수</item>
+        <item>정렬 기준 : 댓글수</item>
+        <item>정렬 기준 : 작성일</item>
+    </string-array>
+
+</resources>
